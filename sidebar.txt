@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[trh:home|Door43 (trh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-trh|d43-trh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-trh/archive/master.zip|d43-trh.zip]]
+
+**Recent Changes**
+{{changes>ns = trh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/trh|Ethnologue data]]
+
